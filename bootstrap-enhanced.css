@@ -12,6 +12,7 @@
     --bs-purple: #cb30e0;
     --bs-pink: #ff2d55;
     --bs-brown: #ac7f5e;
+    --bs-gray: #8e8e93;
     --bs-red-rgb: 255, 56, 60;
     --bs-orange-rgb: 255, 141, 40;
     --bs-yellow-rgb: 255, 204, 0;
@@ -24,6 +25,7 @@
     --bs-purple-rgb: 203, 48, 224;
     --bs-pink-rgb: 255, 45, 85;
     --bs-brown-rgb: 172, 127, 94;
+    --bs-gray-rgb: 142, 142, 147;
     /* --bs-black: #000; */
     /* --bs-white: #fff; */
     /* --bs-gray: #6c757d; */
@@ -38,11 +40,13 @@
     /* --bs-gray-800: #343a40; */
     /* --bs-gray-900: #212529; */
     --bs-primary: var(--bs-blue);
+    --bs-secondary: var(--bs-gray);
     --bs-success: var(--bs-green);
     --bs-info: var(--bs-teal);
     --bs-warning: var(--bs-yellow);
     --bs-danger: var(--bs-red);
     --bs-primary-rgb: var(--bs-blue-rgb);
+    --bs-secondary-rgb: var(--bs-gray-rgb);
     --bs-success-rgb: var(--bs-green-rgb);
     --bs-info-rgb: var(--bs-teal-rgb);
     --bs-warning-rgb: var(--bs-yellow-rgb);
@@ -145,6 +149,7 @@
     --bs-purple: #db34f2;
     --bs-pink: #ff375f;
     --bs-brown: #b78a66;
+    --bs-gray: #8e8e93;
     --bs-red-rgb: 255, 66, 69;
     --bs-orange-rgb: 255, 146, 48;
     --bs-yellow-rgb: 255, 214, 0;
@@ -157,6 +162,7 @@
     --bs-purple-rgb: 219, 52, 242;
     --bs-pink-rgb: 255, 55, 95;
     --bs-brown-rgb: 183, 138, 102;
+    --bs-gray-rgb: 142, 142, 147;
     /* --bs-body-color: #dee2e6; */
     /* --bs-body-color-rgb: 222, 226, 230; */
     /* --bs-body-bg: #212529; */

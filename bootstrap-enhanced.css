@@ -12,6 +12,8 @@
     --bs-purple: #cb30e0;
     --bs-pink: #ff2d55;
     --bs-brown: #ac7f5e;
+    --bs-white: #ffffff;
+    --bs-black: #000000;
     --bs-gray: var(--bs-gray-600);
     --bs-gray-dark: var(--bs-gray-800);
     --bs-gray-100: #f2f2f7;

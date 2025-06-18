@@ -320,7 +320,7 @@
 }
 .btn-outline-primary {
     --bs-btn-color: var(--bs-primary);
-    --bs-btn-border-color: var(--bs-blprimaryue);
+    --bs-btn-border-color: var(--bs-primary);
     --bs-btn-hover-color: var(--bs-white);
     --bs-btn-hover-bg: var(--bs-primary);
     --bs-btn-hover-border-color: var(--bs-primary);

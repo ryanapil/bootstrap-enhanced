@@ -52,16 +52,16 @@
     --bs-info: var(--bs-teal);
     --bs-warning: var(--bs-yellow);
     --bs-danger: var(--bs-red);
-    --bs-light: var(var(--bs-gray-100));
-    --bs-dark: var(var(--bs-gray-900));
+    --bs-light: var(--bs-gray-100);
+    --bs-dark: var(--bs-gray-900);
     --bs-primary-rgb: var(--bs-blue-rgb);
     --bs-secondary-rgb: var(--bs-gray-rgb);
     --bs-success-rgb: var(--bs-green-rgb);
     --bs-info-rgb: var(--bs-teal-rgb);
     --bs-warning-rgb: var(--bs-yellow-rgb);
     --bs-danger-rgb: var(--bs-red-rgb);
-    --bs-light-rgb: var(var(--bs-gray-100-rgb));
-    --bs-dark-rgb: var(var(--bs-gray-900-rgb));
+    --bs-light-rgb: var(--bs-gray-100-rgb);
+    --bs-dark-rgb: var(--bs-gray-900-rgb);
 }
 [data-bs-theme=dark] {
     --bs-red: #ff4245;
